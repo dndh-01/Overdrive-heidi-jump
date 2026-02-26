@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":1,"path":"folders/objects.yy",},
+    {"name":"sprites","order":2,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"blackobject","order":4,"path":"objects/blackobject/blackobject.yy",},
+    {"name":"flagObject","order":1,"path":"objects/flagObject/flagObject.yy",},
+    {"name":"platformObject","order":2,"path":"objects/platformObject/platformObject.yy",},
+    {"name":"solidObject","order":4,"path":"objects/solidObject/solidObject.yy",},
+    {"name":"SpikeEndObject","order":5,"path":"objects/SpikeEndObject/SpikeEndObject.yy",},
+    {"name":"spikeObject","order":3,"path":"objects/spikeObject/spikeObject.yy",},
+    {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
+    {"name":"black","order":4,"path":"sprites/black/black.yy",},
+    {"name":"flag","order":1,"path":"sprites/flag/flag.yy",},
+    {"name":"player","order":3,"path":"sprites/player/player.yy",},
+    {"name":"spike","order":2,"path":"sprites/spike/spike.yy",},
+    {"name":"SpikeEnd","order":5,"path":"sprites/SpikeEnd/SpikeEnd.yy",},
+  ],
+}
